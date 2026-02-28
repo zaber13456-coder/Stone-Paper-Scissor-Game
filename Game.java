@@ -5,7 +5,7 @@ import java.awt.*;
 public class Game {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
-        frame.setTitle("Rock Paper Scissor Game");
+        frame.setTitle("Stone, Paper, Scissor Game");
         frame.setSize(500, 400);
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
